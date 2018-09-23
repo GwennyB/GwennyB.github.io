@@ -1,0 +1,55 @@
+/* Note to students:
+
+Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!
+*/
+
+
+html {
+    height: 100%;
+  }
+  
+  body {
+    background-color: bisque;
+    margin: 0;
+    height: 100%;
+    font-family: helvetica;
+  }
+  
+  header {
+    padding: 10px;
+    background-image: url("cat7.jpg");
+    color:whitesmoke;
+    text-align: center;
+  }
+  h4{
+    padding: 10px;
+    background:rgb(124, 248, 232);
+    color:rgb(255, 0, 55);
+    text-align: center;
+  }
+
+  p {
+    padding: 10px;
+    background:rgb(131, 226, 243);
+    color:#e100ff;
+    text-align: center;
+  }
+
+nav ul li {
+    margin-bottom: 10px;
+  }
+  
+  section {
+    width: 500px;
+    float: left; /* don't modify */
+    padding: 75px;
+  }
+  
+  footer {
+    clear: left; /* don't modify */
+    padding: 10px;
+    background: ;
+    text-align: ;
+  }
